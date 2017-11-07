@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for x in $(ls /home/test)
+for x in $(ls .)
 	do
 		echo $x
 	done
