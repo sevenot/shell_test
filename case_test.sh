@@ -10,6 +10,6 @@ case $cho in
 		echo "Your choice is no!"
 	;;
 	*)
-		echo "Fuck you,Please input the right choice!"
+		echo -e "\033[31m Don't play game with me ,input the right choice! \033[0m"
 	;;
 esac
